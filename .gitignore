@@ -1,0 +1,5 @@
+# Generated model files
+*.pkl
+
+# Generated chart images
+*.png
